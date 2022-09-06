@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:skeleton_spawn_egg",
+          "minecraft:skull_banner_pattern"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:cobbled_deepslate_stairs",
+          "minecraft:cobbled_deepslate_wall",
+          "minecraft:cobblestone",
+          "minecraft:cobblestone_slab",
+          "minecraft:cobblestone_stairs",
+          "minecraft:cobblestone_wall",
+          "minecraft:cobweb",
+          "minecraft:cocoa_beans",
+          "minecraft:cod",
+          "minecraft:cod_bucket",
+          "minecraft:cod_spawn_egg",
+          "minecraft:command_block",
+          "minecraft:command_block_minecart",
+          "minecraft:comparator"
+        ]
+      }
+    }
+  }
+}

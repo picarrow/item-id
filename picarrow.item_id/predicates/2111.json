@@ -1,0 +1,27 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:fire_charge",
+          "minecraft:fire_coral",
+          "minecraft:fire_coral_block",
+          "minecraft:fire_coral_fan",
+          "minecraft:firework_rocket",
+          "minecraft:firework_star",
+          "minecraft:fishing_rod",
+          "minecraft:fletching_table",
+          "minecraft:flint",
+          "minecraft:flint_and_steel",
+          "minecraft:flower_banner_pattern",
+          "minecraft:flower_pot",
+          "minecraft:flowering_azalea",
+          "minecraft:flowering_azalea_leaves",
+          "minecraft:fox_spawn_egg"
+        ]
+      }
+    }
+  }
+}

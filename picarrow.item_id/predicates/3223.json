@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:spruce_boat",
+          "minecraft:spruce_button",
+          "minecraft:spruce_chest_boat",
+          "minecraft:spruce_door",
+          "minecraft:spruce_fence",
+          "minecraft:spruce_fence_gate",
+          "minecraft:spruce_leaves",
+          "minecraft:spruce_log",
+          "minecraft:spruce_planks",
+          "minecraft:spruce_pressure_plate",
+          "minecraft:spruce_sapling",
+          "minecraft:spruce_sign",
+          "minecraft:spruce_slab",
+          "minecraft:spruce_stairs"
+        ]
+      }
+    }
+  }
+}

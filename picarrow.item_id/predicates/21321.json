@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:horn_coral_block",
+          "minecraft:horn_coral_fan",
+          "minecraft:horse_spawn_egg",
+          "minecraft:husk_spawn_egg",
+          "minecraft:ice"
+        ]
+      }
+    }
+  }
+}

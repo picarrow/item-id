@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:stone_pickaxe",
+          "minecraft:stone_pressure_plate",
+          "minecraft:stone_shovel",
+          "minecraft:stone_slab",
+          "minecraft:stone_stairs"
+        ]
+      }
+    }
+  }
+}

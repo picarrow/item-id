@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:cut_copper",
+          "minecraft:cut_copper_slab",
+          "minecraft:cut_copper_stairs",
+          "minecraft:cut_red_sandstone",
+          "minecraft:cut_red_sandstone_slab",
+          "minecraft:cut_sandstone",
+          "minecraft:cut_sandstone_slab",
+          "minecraft:cyan_banner",
+          "minecraft:cyan_bed",
+          "minecraft:cyan_candle",
+          "minecraft:cyan_carpet",
+          "minecraft:cyan_concrete",
+          "minecraft:cyan_concrete_powder",
+          "minecraft:cyan_dye"
+        ]
+      }
+    }
+  }
+}

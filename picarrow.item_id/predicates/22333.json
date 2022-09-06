@@ -1,0 +1,16 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:medium_amethyst_bud",
+          "minecraft:melon",
+          "minecraft:melon_seeds",
+          "minecraft:melon_slice"
+        ]
+      }
+    }
+  }
+}

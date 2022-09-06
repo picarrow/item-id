@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:jungle_pressure_plate",
+          "minecraft:jungle_sapling",
+          "minecraft:jungle_sign",
+          "minecraft:jungle_slab",
+          "minecraft:jungle_stairs"
+        ]
+      }
+    }
+  }
+}

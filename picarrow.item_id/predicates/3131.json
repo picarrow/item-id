@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:rabbit_hide",
+          "minecraft:rabbit_spawn_egg",
+          "minecraft:rabbit_stew",
+          "minecraft:rail",
+          "minecraft:ravager_spawn_egg",
+          "minecraft:raw_copper",
+          "minecraft:raw_copper_block",
+          "minecraft:raw_gold",
+          "minecraft:raw_gold_block",
+          "minecraft:raw_iron",
+          "minecraft:raw_iron_block",
+          "minecraft:recovery_compass",
+          "minecraft:red_banner",
+          "minecraft:red_bed"
+        ]
+      }
+    }
+  }
+}

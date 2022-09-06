@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:cactus",
+          "minecraft:cake",
+          "minecraft:calcite",
+          "minecraft:campfire",
+          "minecraft:candle",
+          "minecraft:carrot",
+          "minecraft:carrot_on_a_stick",
+          "minecraft:cartography_table",
+          "minecraft:carved_pumpkin",
+          "minecraft:cat_spawn_egg",
+          "minecraft:cauldron",
+          "minecraft:cave_spider_spawn_egg",
+          "minecraft:chain",
+          "minecraft:chain_command_block"
+        ]
+      }
+    }
+  }
+}

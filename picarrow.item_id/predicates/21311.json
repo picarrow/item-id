@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:guardian_spawn_egg",
+          "minecraft:gunpowder",
+          "minecraft:hanging_roots",
+          "minecraft:hay_block",
+          "minecraft:heart_of_the_sea"
+        ]
+      }
+    }
+  }
+}

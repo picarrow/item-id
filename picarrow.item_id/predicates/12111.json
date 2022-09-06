@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:brown_dye",
+          "minecraft:brown_glazed_terracotta",
+          "minecraft:brown_mushroom",
+          "minecraft:brown_mushroom_block",
+          "minecraft:brown_shulker_box"
+        ]
+      }
+    }
+  }
+}

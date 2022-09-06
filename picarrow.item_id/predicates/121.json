@@ -1,0 +1,55 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:brown_dye",
+          "minecraft:brown_glazed_terracotta",
+          "minecraft:brown_mushroom",
+          "minecraft:brown_mushroom_block",
+          "minecraft:brown_shulker_box",
+          "minecraft:brown_stained_glass",
+          "minecraft:brown_stained_glass_pane",
+          "minecraft:brown_terracotta",
+          "minecraft:brown_wool",
+          "minecraft:bubble_coral",
+          "minecraft:bubble_coral_block",
+          "minecraft:bubble_coral_fan",
+          "minecraft:bucket",
+          "minecraft:budding_amethyst",
+          "minecraft:bundle",
+          "minecraft:cactus",
+          "minecraft:cake",
+          "minecraft:calcite",
+          "minecraft:campfire",
+          "minecraft:candle",
+          "minecraft:carrot",
+          "minecraft:carrot_on_a_stick",
+          "minecraft:cartography_table",
+          "minecraft:carved_pumpkin",
+          "minecraft:cat_spawn_egg",
+          "minecraft:cauldron",
+          "minecraft:cave_spider_spawn_egg",
+          "minecraft:chain",
+          "minecraft:chain_command_block",
+          "minecraft:chainmail_boots",
+          "minecraft:chainmail_chestplate",
+          "minecraft:chainmail_helmet",
+          "minecraft:chainmail_leggings",
+          "minecraft:charcoal",
+          "minecraft:chest",
+          "minecraft:chest_minecart",
+          "minecraft:chicken",
+          "minecraft:chicken_spawn_egg",
+          "minecraft:chipped_anvil",
+          "minecraft:chiseled_deepslate",
+          "minecraft:chiseled_nether_bricks",
+          "minecraft:chiseled_polished_blackstone",
+          "minecraft:chiseled_quartz_block"
+        ]
+      }
+    }
+  }
+}

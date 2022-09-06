@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:ocelot_spawn_egg",
+          "minecraft:ochre_froglight",
+          "minecraft:orange_banner",
+          "minecraft:orange_bed",
+          "minecraft:orange_candle"
+        ]
+      }
+    }
+  }
+}

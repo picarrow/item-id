@@ -1,0 +1,27 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:chiseled_red_sandstone",
+          "minecraft:chiseled_sandstone",
+          "minecraft:chiseled_stone_bricks",
+          "minecraft:chorus_flower",
+          "minecraft:chorus_fruit",
+          "minecraft:chorus_plant",
+          "minecraft:clay",
+          "minecraft:clay_ball",
+          "minecraft:clock",
+          "minecraft:coal",
+          "minecraft:coal_block",
+          "minecraft:coal_ore",
+          "minecraft:coarse_dirt",
+          "minecraft:cobbled_deepslate",
+          "minecraft:cobbled_deepslate_slab"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:tnt_minecart",
+          "minecraft:torch"
+        ]
+      }
+    }
+  }
+}

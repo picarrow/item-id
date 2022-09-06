@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:piglin_spawn_egg",
+          "minecraft:pillager_spawn_egg"
+        ]
+      }
+    }
+  }
+}

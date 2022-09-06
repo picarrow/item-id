@@ -1,0 +1,55 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:milk_bucket",
+          "minecraft:minecart",
+          "minecraft:mojang_banner_pattern",
+          "minecraft:mooshroom_spawn_egg",
+          "minecraft:moss_block",
+          "minecraft:moss_carpet",
+          "minecraft:mossy_cobblestone",
+          "minecraft:mossy_cobblestone_slab",
+          "minecraft:mossy_cobblestone_stairs",
+          "minecraft:mossy_cobblestone_wall",
+          "minecraft:mossy_stone_brick_slab",
+          "minecraft:mossy_stone_brick_stairs",
+          "minecraft:mossy_stone_brick_wall",
+          "minecraft:mossy_stone_bricks",
+          "minecraft:mud",
+          "minecraft:mud_brick_slab",
+          "minecraft:mud_brick_stairs",
+          "minecraft:mud_brick_wall",
+          "minecraft:mud_bricks",
+          "minecraft:muddy_mangrove_roots",
+          "minecraft:mule_spawn_egg",
+          "minecraft:mushroom_stem",
+          "minecraft:mushroom_stew",
+          "minecraft:music_disc_11",
+          "minecraft:music_disc_13",
+          "minecraft:music_disc_5",
+          "minecraft:music_disc_blocks",
+          "minecraft:music_disc_cat",
+          "minecraft:music_disc_chirp",
+          "minecraft:music_disc_far",
+          "minecraft:music_disc_mall",
+          "minecraft:music_disc_mellohi",
+          "minecraft:music_disc_otherside",
+          "minecraft:music_disc_pigstep",
+          "minecraft:music_disc_stal",
+          "minecraft:music_disc_strad",
+          "minecraft:music_disc_wait",
+          "minecraft:music_disc_ward",
+          "minecraft:mutton",
+          "minecraft:mycelium",
+          "minecraft:name_tag",
+          "minecraft:nautilus_shell",
+          "minecraft:nether_brick"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:end_stone_brick_wall",
+          "minecraft:end_stone_bricks",
+          "minecraft:ender_chest",
+          "minecraft:ender_eye"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:warped_stairs",
+          "minecraft:warped_stem",
+          "minecraft:warped_trapdoor",
+          "minecraft:warped_wart_block"
+        ]
+      }
+    }
+  }
+}

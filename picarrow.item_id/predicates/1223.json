@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:compass",
+          "minecraft:composter",
+          "minecraft:conduit",
+          "minecraft:cooked_beef",
+          "minecraft:cooked_chicken",
+          "minecraft:cooked_cod",
+          "minecraft:cooked_mutton",
+          "minecraft:cooked_porkchop",
+          "minecraft:cooked_rabbit",
+          "minecraft:cooked_salmon",
+          "minecraft:cookie",
+          "minecraft:copper_block",
+          "minecraft:copper_ingot",
+          "minecraft:copper_ore"
+        ]
+      }
+    }
+  }
+}

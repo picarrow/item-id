@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:music_disc_far",
+          "minecraft:music_disc_mall",
+          "minecraft:music_disc_mellohi",
+          "minecraft:music_disc_otherside",
+          "minecraft:music_disc_pigstep"
+        ]
+      }
+    }
+  }
+}

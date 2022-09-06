@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:mangrove_slab",
+          "minecraft:mangrove_stairs",
+          "minecraft:mangrove_trapdoor",
+          "minecraft:mangrove_wood",
+          "minecraft:map"
+        ]
+      }
+    }
+  }
+}

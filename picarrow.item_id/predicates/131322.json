@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:dead_fire_coral_block",
+          "minecraft:dead_fire_coral_fan"
+        ]
+      }
+    }
+  }
+}

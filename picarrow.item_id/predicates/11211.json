@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:bedrock",
+          "minecraft:bee_nest",
+          "minecraft:bee_spawn_egg",
+          "minecraft:beef",
+          "minecraft:beehive"
+        ]
+      }
+    }
+  }
+}

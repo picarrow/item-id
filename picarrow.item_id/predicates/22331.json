@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:mangrove_planks",
+          "minecraft:mangrove_pressure_plate",
+          "minecraft:mangrove_propagule",
+          "minecraft:mangrove_roots",
+          "minecraft:mangrove_sign"
+        ]
+      }
+    }
+  }
+}

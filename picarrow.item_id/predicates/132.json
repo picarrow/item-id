@@ -1,0 +1,55 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:dead_tube_coral_fan",
+          "minecraft:debug_stick",
+          "minecraft:deepslate",
+          "minecraft:deepslate_brick_slab",
+          "minecraft:deepslate_brick_stairs",
+          "minecraft:deepslate_brick_wall",
+          "minecraft:deepslate_bricks",
+          "minecraft:deepslate_coal_ore",
+          "minecraft:deepslate_copper_ore",
+          "minecraft:deepslate_diamond_ore",
+          "minecraft:deepslate_emerald_ore",
+          "minecraft:deepslate_gold_ore",
+          "minecraft:deepslate_iron_ore",
+          "minecraft:deepslate_lapis_ore",
+          "minecraft:deepslate_redstone_ore",
+          "minecraft:deepslate_tile_slab",
+          "minecraft:deepslate_tile_stairs",
+          "minecraft:deepslate_tile_wall",
+          "minecraft:deepslate_tiles",
+          "minecraft:detector_rail",
+          "minecraft:diamond",
+          "minecraft:diamond_axe",
+          "minecraft:diamond_block",
+          "minecraft:diamond_boots",
+          "minecraft:diamond_chestplate",
+          "minecraft:diamond_helmet",
+          "minecraft:diamond_hoe",
+          "minecraft:diamond_horse_armor",
+          "minecraft:diamond_leggings",
+          "minecraft:diamond_ore",
+          "minecraft:diamond_pickaxe",
+          "minecraft:diamond_shovel",
+          "minecraft:diamond_sword",
+          "minecraft:diorite",
+          "minecraft:diorite_slab",
+          "minecraft:diorite_stairs",
+          "minecraft:diorite_wall",
+          "minecraft:dirt",
+          "minecraft:dirt_path",
+          "minecraft:disc_fragment_5",
+          "minecraft:dispenser",
+          "minecraft:dolphin_spawn_egg",
+          "minecraft:donkey_spawn_egg"
+        ]
+      }
+    }
+  }
+}

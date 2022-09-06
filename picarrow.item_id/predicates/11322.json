@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:bone",
+          "minecraft:bone_block",
+          "minecraft:bone_meal",
+          "minecraft:book",
+          "minecraft:bookshelf"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:orange_tulip",
+          "minecraft:orange_wool",
+          "minecraft:oxeye_daisy",
+          "minecraft:oxidized_copper",
+          "minecraft:oxidized_cut_copper",
+          "minecraft:oxidized_cut_copper_slab",
+          "minecraft:oxidized_cut_copper_stairs",
+          "minecraft:packed_ice",
+          "minecraft:packed_mud",
+          "minecraft:painting",
+          "minecraft:panda_spawn_egg",
+          "minecraft:paper",
+          "minecraft:parrot_spawn_egg",
+          "minecraft:pearlescent_froglight"
+        ]
+      }
+    }
+  }
+}

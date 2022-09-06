@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:dripstone_block",
+          "minecraft:dropper",
+          "minecraft:drowned_spawn_egg",
+          "minecraft:echo_shard",
+          "minecraft:egg"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:wither_skeleton_spawn_egg",
+          "minecraft:wolf_spawn_egg",
+          "minecraft:wooden_axe",
+          "minecraft:wooden_hoe",
+          "minecraft:wooden_pickaxe"
+        ]
+      }
+    }
+  }
+}

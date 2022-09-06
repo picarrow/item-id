@@ -1,0 +1,16 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:slime_block",
+          "minecraft:slime_spawn_egg",
+          "minecraft:small_amethyst_bud",
+          "minecraft:small_dripleaf"
+        ]
+      }
+    }
+  }
+}

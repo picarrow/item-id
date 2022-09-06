@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:red_candle",
+          "minecraft:red_carpet",
+          "minecraft:red_concrete",
+          "minecraft:red_concrete_powder",
+          "minecraft:red_dye",
+          "minecraft:red_glazed_terracotta",
+          "minecraft:red_mushroom",
+          "minecraft:red_mushroom_block",
+          "minecraft:red_nether_brick_slab",
+          "minecraft:red_nether_brick_stairs",
+          "minecraft:red_nether_brick_wall",
+          "minecraft:red_nether_bricks",
+          "minecraft:red_sand",
+          "minecraft:red_sandstone"
+        ]
+      }
+    }
+  }
+}

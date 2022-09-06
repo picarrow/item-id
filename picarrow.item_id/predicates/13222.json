@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:diamond",
+          "minecraft:diamond_axe",
+          "minecraft:diamond_block",
+          "minecraft:diamond_boots",
+          "minecraft:diamond_chestplate"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:deepslate_brick_wall",
+          "minecraft:deepslate_bricks",
+          "minecraft:deepslate_coal_ore",
+          "minecraft:deepslate_copper_ore",
+          "minecraft:deepslate_diamond_ore"
+        ]
+      }
+    }
+  }
+}

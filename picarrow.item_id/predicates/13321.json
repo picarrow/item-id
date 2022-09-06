@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:emerald_ore",
+          "minecraft:enchanted_book",
+          "minecraft:enchanted_golden_apple",
+          "minecraft:enchanting_table",
+          "minecraft:end_crystal"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:lingering_potion",
+          "minecraft:llama_spawn_egg",
+          "minecraft:lodestone",
+          "minecraft:loom",
+          "minecraft:magenta_banner"
+        ]
+      }
+    }
+  }
+}

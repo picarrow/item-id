@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:azalea_leaves",
+          "minecraft:azure_bluet",
+          "minecraft:baked_potato",
+          "minecraft:bamboo",
+          "minecraft:barrel"
+        ]
+      }
+    }
+  }
+}

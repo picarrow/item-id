@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:diorite_slab",
+          "minecraft:diorite_stairs",
+          "minecraft:diorite_wall",
+          "minecraft:dirt",
+          "minecraft:dirt_path"
+        ]
+      }
+    }
+  }
+}

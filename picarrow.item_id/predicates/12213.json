@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:coal_block",
+          "minecraft:coal_ore",
+          "minecraft:coarse_dirt",
+          "minecraft:cobbled_deepslate",
+          "minecraft:cobbled_deepslate_slab"
+        ]
+      }
+    }
+  }
+}

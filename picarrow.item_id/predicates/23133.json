@@ -1,0 +1,16 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:mycelium",
+          "minecraft:name_tag",
+          "minecraft:nautilus_shell",
+          "minecraft:nether_brick"
+        ]
+      }
+    }
+  }
+}

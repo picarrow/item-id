@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:rabbit_hide",
+          "minecraft:rabbit_spawn_egg",
+          "minecraft:rabbit_stew",
+          "minecraft:rail",
+          "minecraft:ravager_spawn_egg"
+        ]
+      }
+    }
+  }
+}

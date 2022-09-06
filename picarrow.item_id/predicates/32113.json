@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:salmon_spawn_egg",
+          "minecraft:sand",
+          "minecraft:sandstone",
+          "minecraft:sandstone_slab",
+          "minecraft:sandstone_stairs"
+        ]
+      }
+    }
+  }
+}

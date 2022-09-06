@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:crafting_table",
+          "minecraft:creeper_banner_pattern"
+        ]
+      }
+    }
+  }
+}

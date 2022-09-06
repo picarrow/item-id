@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:acacia_fence_gate",
+          "minecraft:acacia_leaves",
+          "minecraft:acacia_log",
+          "minecraft:acacia_planks",
+          "minecraft:acacia_pressure_plate"
+        ]
+      }
+    }
+  }
+}

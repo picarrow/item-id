@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:cobbled_deepslate_stairs",
+          "minecraft:cobbled_deepslate_wall",
+          "minecraft:cobblestone",
+          "minecraft:cobblestone_slab",
+          "minecraft:cobblestone_stairs"
+        ]
+      }
+    }
+  }
+}

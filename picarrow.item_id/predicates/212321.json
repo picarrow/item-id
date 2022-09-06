@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:green_concrete_powder",
+          "minecraft:green_dye"
+        ]
+      }
+    }
+  }
+}

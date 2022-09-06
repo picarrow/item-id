@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:brain_coral_fan",
+          "minecraft:bread",
+          "minecraft:brewing_stand",
+          "minecraft:brick",
+          "minecraft:brick_slab",
+          "minecraft:brick_stairs",
+          "minecraft:brick_wall",
+          "minecraft:bricks",
+          "minecraft:brown_banner",
+          "minecraft:brown_bed",
+          "minecraft:brown_candle",
+          "minecraft:brown_carpet",
+          "minecraft:brown_concrete",
+          "minecraft:brown_concrete_powder"
+        ]
+      }
+    }
+  }
+}

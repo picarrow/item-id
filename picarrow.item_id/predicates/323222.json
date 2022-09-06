@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:stray_spawn_egg",
+          "minecraft:strider_spawn_egg"
+        ]
+      }
+    }
+  }
+}

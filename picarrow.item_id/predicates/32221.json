@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:snow_block",
+          "minecraft:snowball",
+          "minecraft:soul_campfire",
+          "minecraft:soul_lantern",
+          "minecraft:soul_sand"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:sandstone_wall",
+          "minecraft:scaffolding",
+          "minecraft:sculk",
+          "minecraft:sculk_catalyst",
+          "minecraft:sculk_sensor"
+        ]
+      }
+    }
+  }
+}

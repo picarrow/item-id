@@ -1,0 +1,27 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:reinforced_deepslate",
+          "minecraft:repeater",
+          "minecraft:repeating_command_block",
+          "minecraft:respawn_anchor",
+          "minecraft:rooted_dirt",
+          "minecraft:rose_bush",
+          "minecraft:rotten_flesh",
+          "minecraft:saddle",
+          "minecraft:salmon",
+          "minecraft:salmon_bucket",
+          "minecraft:salmon_spawn_egg",
+          "minecraft:sand",
+          "minecraft:sandstone",
+          "minecraft:sandstone_slab",
+          "minecraft:sandstone_stairs"
+        ]
+      }
+    }
+  }
+}

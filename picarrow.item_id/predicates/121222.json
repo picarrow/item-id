@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:cartography_table",
+          "minecraft:carved_pumpkin"
+        ]
+      }
+    }
+  }
+}

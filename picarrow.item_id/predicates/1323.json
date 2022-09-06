@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:diamond_ore",
+          "minecraft:diamond_pickaxe",
+          "minecraft:diamond_shovel",
+          "minecraft:diamond_sword",
+          "minecraft:diorite",
+          "minecraft:diorite_slab",
+          "minecraft:diorite_stairs",
+          "minecraft:diorite_wall",
+          "minecraft:dirt",
+          "minecraft:dirt_path",
+          "minecraft:disc_fragment_5",
+          "minecraft:dispenser",
+          "minecraft:dolphin_spawn_egg",
+          "minecraft:donkey_spawn_egg"
+        ]
+      }
+    }
+  }
+}

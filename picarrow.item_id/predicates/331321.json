@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:vex_spawn_egg",
+          "minecraft:villager_spawn_egg"
+        ]
+      }
+    }
+  }
+}

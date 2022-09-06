@@ -1,0 +1,16 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:infested_stone",
+          "minecraft:infested_stone_bricks",
+          "minecraft:ink_sac",
+          "minecraft:iron_axe"
+        ]
+      }
+    }
+  }
+}

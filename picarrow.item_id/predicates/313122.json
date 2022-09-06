@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:raw_gold",
+          "minecraft:raw_gold_block"
+        ]
+      }
+    }
+  }
+}

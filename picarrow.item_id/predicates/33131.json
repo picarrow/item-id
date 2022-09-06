@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:turtle_egg",
+          "minecraft:turtle_helmet",
+          "minecraft:turtle_spawn_egg",
+          "minecraft:twisting_vines",
+          "minecraft:verdant_froglight"
+        ]
+      }
+    }
+  }
+}

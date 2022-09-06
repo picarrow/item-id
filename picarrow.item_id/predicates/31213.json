@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:prismarine_stairs",
+          "minecraft:prismarine_wall",
+          "minecraft:pufferfish",
+          "minecraft:pufferfish_bucket",
+          "minecraft:pufferfish_spawn_egg"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:beetroot_soup",
+          "minecraft:bell"
+        ]
+      }
+    }
+  }
+}

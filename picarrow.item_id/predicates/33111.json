@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:structure_block",
+          "minecraft:structure_void",
+          "minecraft:sugar",
+          "minecraft:sugar_cane",
+          "minecraft:sunflower"
+        ]
+      }
+    }
+  }
+}

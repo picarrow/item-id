@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:chainmail_boots",
+          "minecraft:chainmail_chestplate",
+          "minecraft:chainmail_helmet",
+          "minecraft:chainmail_leggings",
+          "minecraft:charcoal",
+          "minecraft:chest",
+          "minecraft:chest_minecart",
+          "minecraft:chicken",
+          "minecraft:chicken_spawn_egg",
+          "minecraft:chipped_anvil",
+          "minecraft:chiseled_deepslate",
+          "minecraft:chiseled_nether_bricks",
+          "minecraft:chiseled_polished_blackstone",
+          "minecraft:chiseled_quartz_block"
+        ]
+      }
+    }
+  }
+}

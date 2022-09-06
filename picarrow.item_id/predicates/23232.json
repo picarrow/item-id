@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:oak_pressure_plate",
+          "minecraft:oak_sapling",
+          "minecraft:oak_sign",
+          "minecraft:oak_slab",
+          "minecraft:oak_stairs"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:carrot",
+          "minecraft:carrot_on_a_stick",
+          "minecraft:cartography_table",
+          "minecraft:carved_pumpkin",
+          "minecraft:cat_spawn_egg"
+        ]
+      }
+    }
+  }
+}

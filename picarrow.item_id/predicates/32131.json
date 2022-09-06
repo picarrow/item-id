@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:shroomlight",
+          "minecraft:shulker_box",
+          "minecraft:shulker_shell",
+          "minecraft:shulker_spawn_egg",
+          "minecraft:silverfish_spawn_egg"
+        ]
+      }
+    }
+  }
+}

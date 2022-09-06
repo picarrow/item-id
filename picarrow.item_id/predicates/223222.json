@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:mangrove_button",
+          "minecraft:mangrove_chest_boat"
+        ]
+      }
+    }
+  }
+}

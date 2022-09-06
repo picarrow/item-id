@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:smooth_stone",
+          "minecraft:smooth_stone_slab"
+        ]
+      }
+    }
+  }
+}

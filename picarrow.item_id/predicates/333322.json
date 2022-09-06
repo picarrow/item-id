@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:yellow_wool",
+          "minecraft:zoglin_spawn_egg"
+        ]
+      }
+    }
+  }
+}

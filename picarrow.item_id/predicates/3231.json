@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:spruce_trapdoor",
+          "minecraft:spruce_wood",
+          "minecraft:spyglass",
+          "minecraft:squid_spawn_egg",
+          "minecraft:stick",
+          "minecraft:sticky_piston",
+          "minecraft:stone",
+          "minecraft:stone_axe",
+          "minecraft:stone_brick_slab",
+          "minecraft:stone_brick_stairs",
+          "minecraft:stone_brick_wall",
+          "minecraft:stone_bricks",
+          "minecraft:stone_button",
+          "minecraft:stone_hoe"
+        ]
+      }
+    }
+  }
+}

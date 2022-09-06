@@ -1,0 +1,16 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:disc_fragment_5",
+          "minecraft:dispenser",
+          "minecraft:dolphin_spawn_egg",
+          "minecraft:donkey_spawn_egg"
+        ]
+      }
+    }
+  }
+}

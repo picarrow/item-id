@@ -1,0 +1,27 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:golden_carrot",
+          "minecraft:golden_chestplate",
+          "minecraft:golden_helmet",
+          "minecraft:golden_hoe",
+          "minecraft:golden_horse_armor",
+          "minecraft:golden_leggings",
+          "minecraft:golden_pickaxe",
+          "minecraft:golden_shovel",
+          "minecraft:golden_sword",
+          "minecraft:granite",
+          "minecraft:granite_slab",
+          "minecraft:granite_stairs",
+          "minecraft:granite_wall",
+          "minecraft:grass",
+          "minecraft:grass_block"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:milk_bucket",
+          "minecraft:minecart",
+          "minecraft:mojang_banner_pattern",
+          "minecraft:mooshroom_spawn_egg",
+          "minecraft:moss_block"
+        ]
+      }
+    }
+  }
+}

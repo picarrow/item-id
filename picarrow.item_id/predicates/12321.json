@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:crimson_fence_gate",
+          "minecraft:crimson_fungus",
+          "minecraft:crimson_hyphae",
+          "minecraft:crimson_nylium",
+          "minecraft:crimson_planks"
+        ]
+      }
+    }
+  }
+}

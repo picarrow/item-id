@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:mule_spawn_egg",
+          "minecraft:mushroom_stem"
+        ]
+      }
+    }
+  }
+}

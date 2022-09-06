@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:mossy_stone_brick_wall",
+          "minecraft:mossy_stone_bricks"
+        ]
+      }
+    }
+  }
+}

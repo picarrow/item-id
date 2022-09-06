@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:cyan_wool",
+          "minecraft:damaged_anvil",
+          "minecraft:dandelion",
+          "minecraft:dark_oak_boat",
+          "minecraft:dark_oak_button"
+        ]
+      }
+    }
+  }
+}

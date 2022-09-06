@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:leather_boots",
+          "minecraft:leather_chestplate"
+        ]
+      }
+    }
+  }
+}

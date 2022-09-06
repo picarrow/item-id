@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:shulker_shell",
+          "minecraft:shulker_spawn_egg"
+        ]
+      }
+    }
+  }
+}

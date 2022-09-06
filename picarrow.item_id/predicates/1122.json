@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:birch_fence_gate",
+          "minecraft:birch_leaves",
+          "minecraft:birch_log",
+          "minecraft:birch_planks",
+          "minecraft:birch_pressure_plate",
+          "minecraft:birch_sapling",
+          "minecraft:birch_sign",
+          "minecraft:birch_slab",
+          "minecraft:birch_stairs",
+          "minecraft:birch_trapdoor",
+          "minecraft:birch_wood",
+          "minecraft:black_banner",
+          "minecraft:black_bed",
+          "minecraft:black_candle"
+        ]
+      }
+    }
+  }
+}

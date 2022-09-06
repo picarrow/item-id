@@ -1,0 +1,27 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:structure_block",
+          "minecraft:structure_void",
+          "minecraft:sugar",
+          "minecraft:sugar_cane",
+          "minecraft:sunflower",
+          "minecraft:suspicious_stew",
+          "minecraft:sweet_berries",
+          "minecraft:tadpole_bucket",
+          "minecraft:tadpole_spawn_egg",
+          "minecraft:tall_grass",
+          "minecraft:target",
+          "minecraft:terracotta",
+          "minecraft:tinted_glass",
+          "minecraft:tipped_arrow",
+          "minecraft:tnt"
+        ]
+      }
+    }
+  }
+}

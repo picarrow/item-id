@@ -1,0 +1,16 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:stone_brick_wall",
+          "minecraft:stone_bricks",
+          "minecraft:stone_button",
+          "minecraft:stone_hoe"
+        ]
+      }
+    }
+  }
+}

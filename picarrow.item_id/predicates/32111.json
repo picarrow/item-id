@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:reinforced_deepslate",
+          "minecraft:repeater",
+          "minecraft:repeating_command_block",
+          "minecraft:respawn_anchor",
+          "minecraft:rooted_dirt"
+        ]
+      }
+    }
+  }
+}

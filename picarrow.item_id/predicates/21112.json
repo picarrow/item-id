@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:firework_star",
+          "minecraft:fishing_rod",
+          "minecraft:fletching_table",
+          "minecraft:flint",
+          "minecraft:flint_and_steel"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:mud_brick_slab",
+          "minecraft:mud_brick_stairs",
+          "minecraft:mud_brick_wall",
+          "minecraft:mud_bricks",
+          "minecraft:muddy_mangrove_roots"
+        ]
+      }
+    }
+  }
+}

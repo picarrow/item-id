@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:dark_oak_slab",
+          "minecraft:dark_oak_stairs",
+          "minecraft:dark_oak_trapdoor",
+          "minecraft:dark_oak_wood",
+          "minecraft:dark_prismarine"
+        ]
+      }
+    }
+  }
+}

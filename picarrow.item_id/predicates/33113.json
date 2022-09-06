@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:target",
+          "minecraft:terracotta",
+          "minecraft:tinted_glass",
+          "minecraft:tipped_arrow",
+          "minecraft:tnt"
+        ]
+      }
+    }
+  }
+}

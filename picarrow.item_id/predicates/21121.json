@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:frog_spawn_egg",
+          "minecraft:frogspawn",
+          "minecraft:furnace",
+          "minecraft:furnace_minecart",
+          "minecraft:ghast_spawn_egg"
+        ]
+      }
+    }
+  }
+}

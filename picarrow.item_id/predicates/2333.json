@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:peony",
+          "minecraft:petrified_oak_slab",
+          "minecraft:phantom_membrane",
+          "minecraft:phantom_spawn_egg",
+          "minecraft:pig_spawn_egg",
+          "minecraft:piglin_banner_pattern",
+          "minecraft:piglin_brute_spawn_egg",
+          "minecraft:piglin_spawn_egg",
+          "minecraft:pillager_spawn_egg",
+          "minecraft:pink_banner",
+          "minecraft:pink_bed",
+          "minecraft:pink_candle",
+          "minecraft:pink_carpet",
+          "minecraft:pink_concrete"
+        ]
+      }
+    }
+  }
+}

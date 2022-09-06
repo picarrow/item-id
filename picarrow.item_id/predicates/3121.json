@@ -1,0 +1,27 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:potion",
+          "minecraft:powder_snow_bucket",
+          "minecraft:powered_rail",
+          "minecraft:prismarine",
+          "minecraft:prismarine_brick_slab",
+          "minecraft:prismarine_brick_stairs",
+          "minecraft:prismarine_bricks",
+          "minecraft:prismarine_crystals",
+          "minecraft:prismarine_shard",
+          "minecraft:prismarine_slab",
+          "minecraft:prismarine_stairs",
+          "minecraft:prismarine_wall",
+          "minecraft:pufferfish",
+          "minecraft:pufferfish_bucket",
+          "minecraft:pufferfish_spawn_egg"
+        ]
+      }
+    }
+  }
+}

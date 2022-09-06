@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:potion",
+          "minecraft:powder_snow_bucket",
+          "minecraft:powered_rail",
+          "minecraft:prismarine",
+          "minecraft:prismarine_brick_slab"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:oak_boat",
+          "minecraft:oak_button",
+          "minecraft:oak_chest_boat",
+          "minecraft:oak_door"
+        ]
+      }
+    }
+  }
+}

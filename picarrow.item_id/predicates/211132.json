@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:flowering_azalea",
+          "minecraft:flowering_azalea_leaves"
+        ]
+      }
+    }
+  }
+}
