@@ -10,6 +10,7 @@ For example:
  - feathers are given the id of 381.
  - sponges are given the id of 967.
  - zombified piglin spawn eggs are given the id of 1151.
+
 As of 1.19.2, there are 1,151 items in the game (excluding air), so the ids range from 1 to this number.
 To find the numerical id of an item, you can throw it on the ground and query its score from the objective picarrow.iid.item_id.
 Or you can use the lookup table provided in the root directory of the namespace.
