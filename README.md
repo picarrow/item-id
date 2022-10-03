@@ -3,6 +3,10 @@ This data pack namespace is intended to serve as a tool for other data packs.
 The namespace enables the id of item entities to be more easily and efficiently identified.
 
 ### How to Use
+Generate a working data pack by executing iid.py.
+If you would like to distinguish if a certain item is in a set, before executing the python file, add tags to the tags folder.
+Refer to the examples included inside for help formatting.
+
 The data pack ensures that every loaded item entity is given an id that corresponds to the item that it is.
 This id is numerical and is stored inside the scoreboard objective picarrow.iid.item_id.
 For example:
